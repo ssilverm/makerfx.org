@@ -28,7 +28,6 @@ scrolltop: true
 ## Membership Process
 1. **Tour MakerFX**
   * To schedule a tour, please use our [MakerFX Tour Request Form](https://form.jotform.com/makereffect/tour) (and check out our [Virtual Tour](/virtual-tour)!)
-  * If you can tour on a Friday night between 6pm and 7pm, this is easiest for our volunteers, and you are likely to meet other members who will be attending one of our Friday night "Guild" meetings at 7pm. If you can't make this time, you have the ability to indicate other times on the above form.
 2. **Join MakerFX**
   * Review the Membership Options below and decide on your desired membership level
   * Use our [MakerFX Membership Form](https://form.jotform.com/makereffect/makerfx-membership) to complete both the waiver form and start a recurring payment option via PayPal
