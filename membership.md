@@ -25,6 +25,11 @@ scrolltop: true
 
 ---
 
+### NOTE: Delayed Communication and Onboarding - Nov 1st through Nov 15th
+ Our organization produces [Maker Faire Orlando](https://www.makerfaireorlando.com). Tours and new member orientations (along with email communication) will be delayed between Nov 1 and Nov 15 each year. Come out to meet us at Maker Faire, and then we can get you setup for a tour or new member orientation after the event!
+
+---
+
 ## Membership Process
 1. **Tour MakerFX**
   * To schedule a tour, please use our [MakerFX Tour Request Form](https://form.jotform.com/makereffect/tour) (and check out our [Virtual Tour](/virtual-tour)!)
